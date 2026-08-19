@@ -1,4 +1,4 @@
-# Quiz Management & Online Assessment Platform
+# Quiwwz - Quiz Management & Online Assessment Platform
 
 A full-stack quiz platform built with React, Express, and PostgreSQL. Admins create categories, build quizzes with multiple-choice questions, and publish them; students browse published quizzes, attempt them under a timer, and get instant scored results with a full answer review.
 
